@@ -4,7 +4,7 @@
 
  👀 I'm a Self-tought programming student, For a long time i've wanted to start programming, in 2023 I had the opportunity to focus on it and it changed my life completely.
 
-### :woman_technologist:	 What I learned so far:
+### :woman_technologist:	 What I've learned so far:
 
   [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,&perline=5)](https://skillicons.dev)
   
