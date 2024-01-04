@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aya Al-Shouha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aya-al-shouha) 	
-[![Gmail](https://img.shields.io/badge/Gmail-Profile-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aya.alshouha11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Profile-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ayaalshouha12@gmail.com)
 
  👀 I'm a Self-tought programming student, For a long time i've wanted to start programming, in 2023 I had the opportunity to focus on it and it changed my life completely.
 
