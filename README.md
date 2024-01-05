@@ -10,8 +10,8 @@
   :point_right:	*I'm also improving my skills in OOP and Problem Solving*.
 
 ## 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aya-al-shouha) 	
-[![Gmail](https://img.shields.io/badge/Gmail-Profile-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ayaalshouha12@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/aya-al-shouha/)
+[![Gmail](https://img.shields.io/badge/Gmail-Connect-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ayaalshouha12@gmail.com)
 
 
 
