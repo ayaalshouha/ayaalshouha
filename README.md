@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Aya!
 
- I'm a Self-tought programming student.
- For a long time i've wanted to start programming,in 2023 I had the opportunity to focus on it and it changed my life completely.
+ Full Stack .NET Developer with fully understanding in Web APIs. Dedicated to building efficient, scalable solutions and delivering exceptional user experiences. Committed to continuous learning and staying current with industry advancements.
 
 ## :woman_technologist:	 Languages and Tools I've learned so far:
 
