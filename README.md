@@ -4,9 +4,9 @@
 
 ## :woman_technologist:	 Languages and Tools I've learned so far:
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,html,css,js,&perline=6)](https://skillicons.dev)
   
-  :point_right:	*I'm also improving my skills in OOP and Problem Solving*.
+  :point_right:	*I'm also improving my skills in Problem Solving*.
 
 ## 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/aya-al-shouha/)
