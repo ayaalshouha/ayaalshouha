@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aya!
+# 👋 Hey, I’m Aya!
 
  .NET Full Stack Developer with fully understanding in Web APIs. Dedicated to building efficient solutions and delivering exceptional user experiences. Committed to continuous learning and staying current with industry advancements.
 
