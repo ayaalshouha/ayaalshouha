@@ -4,7 +4,7 @@
 
 ## :woman_technologist:	 Languages and Tools I've learned so far:
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,html,css,js,angular,&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,html,css,js,angular,visualstudio,&perline=6)](https://skillicons.dev)
   
   :point_right:	*I'm also improving my skills in Problem Solving*.
 
