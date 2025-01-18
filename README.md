@@ -2,7 +2,7 @@
 
  a .NET Full Stack Developer with fully understanding in Web APIs. Dedicated to building efficient solutions and delivering exceptional user experiences. Committed to continuous learning and staying current with industry advancements.
 
-## :woman_technologist:	 Languages and Tools I've learned so far:
+## :woman_technologist:	 Languages and Tools I've wokred with so far:
 
   [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,html,css,js,angular,visualstudio,&perline=6)](https://skillicons.dev)
   
